@@ -1,0 +1,82 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_sdk/public/platform-tools",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "platform-tools/NOTICE.txt",
+      "size": 1107870,
+      "hash": "Mo-hrnbpv_Z4lKUUD7I9IPv7VY7rq5qr_gK4Qn4JK6IC"
+    },
+    {
+      "name": "platform-tools/adb",
+      "size": 8709272,
+      "executable": true,
+      "hash": "Ny2ADATDJycpr63oqF2Vpw-xx-dAYtmrF6kut7YYCWwC"
+    },
+    {
+      "name": "platform-tools/etc1tool",
+      "size": 306088,
+      "executable": true,
+      "hash": "5_84K1gItf-7K-XqMSn3YGHxYNDLhf7WJb7tE44Z0oEC"
+    },
+    {
+      "name": "platform-tools/fastboot",
+      "size": 2804592,
+      "executable": true,
+      "hash": "bdM-ul0icD8ZZTC8pQBD1npuqMyAidqCQrJkSynDgrAC"
+    },
+    {
+      "name": "platform-tools/hprof-conv",
+      "size": 13496,
+      "executable": true,
+      "hash": "oJIsqeI4M5tdIqeq1m9nLXZuM-P3dxJ7BEMj_c87vKcC"
+    },
+    {
+      "name": "platform-tools/lib64/libc++.so",
+      "size": 1471256,
+      "executable": true,
+      "hash": "u4nb_lzAPxqL7nDWFfNzx9CpuG91JP96qRpuBl665ZcC"
+    },
+    {
+      "name": "platform-tools/make_f2fs",
+      "size": 271672,
+      "executable": true,
+      "hash": "Qz70Rks4wYkhlCfs8wFomNGhoOVSnrkF7jt47Pu2tMIC"
+    },
+    {
+      "name": "platform-tools/make_f2fs_casefold",
+      "size": 271672,
+      "executable": true,
+      "hash": "OTlhKqlPN-oNMk1oBS3pKPq9fLkQHxtJDKfGFLlMDRIC"
+    },
+    {
+      "name": "platform-tools/mke2fs",
+      "size": 986608,
+      "executable": true,
+      "hash": "-gjDvx3uwpcuTZdW4phFFY8b2nckKnJ1H93UFl3N9_sC"
+    },
+    {
+      "name": "platform-tools/mke2fs.conf",
+      "size": 1157,
+      "hash": "rViljc3STYUFWBTKnKxn24nU5nxDTpZ3S9zg0KAH0GcC"
+    },
+    {
+      "name": "platform-tools/package.xml",
+      "size": 18404,
+      "hash": "2BdQkdGVHROuxo-WqSp3QpSv5wKA3-64Eu-96GxZ8jYC"
+    },
+    {
+      "name": "platform-tools/source.properties",
+      "size": 38,
+      "hash": "OC-LJ8SvaSUBZxqD5yUhdinEWIPP7espoaP9jlsZFncC"
+    },
+    {
+      "name": "platform-tools/sqlite3",
+      "size": 3475056,
+      "executable": true,
+      "hash": "P8Bo6wJfjdK0hvzb5EarrrjOsJogn7xzrwbXhNYFG7gC"
+    }
+  ]
+}

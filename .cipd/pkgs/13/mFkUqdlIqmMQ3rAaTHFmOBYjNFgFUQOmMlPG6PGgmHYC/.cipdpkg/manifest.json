@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/nullaway",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "nullaway.jar",
+      "size": 5883498,
+      "hash": "buJ1XHkwbXj0pa_xN6FOyXvZl0JsQj9AE0EUIJSGKksC"
+    }
+  ]
+}

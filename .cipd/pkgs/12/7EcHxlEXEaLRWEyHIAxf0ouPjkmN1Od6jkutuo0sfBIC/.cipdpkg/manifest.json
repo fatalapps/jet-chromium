@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/error_prone_javac",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "javac.jar",
+      "size": 2843745,
+      "hash": "Flp0nPJxOB4nHcWQabWdzVaH3MlCe9Iblq6nFTRVXFYC"
+    }
+  ]
+}

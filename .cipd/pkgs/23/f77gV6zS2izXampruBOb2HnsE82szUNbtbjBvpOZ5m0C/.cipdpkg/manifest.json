@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_ar_impress",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "impress-0.0.3.aar",
+      "size": 7480475,
+      "hash": "QGsZHi3VAh9kQ4HlS2PAeWQFPzfpdepV6kL06q2OuLkC"
+    }
+  ]
+}

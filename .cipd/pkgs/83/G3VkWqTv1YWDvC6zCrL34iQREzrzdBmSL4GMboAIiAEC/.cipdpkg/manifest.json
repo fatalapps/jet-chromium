@@ -1,0 +1,83 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/robolectric",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/android-all-15-robolectric-12650502.jar",
+      "size": 184872954,
+      "hash": "bAZwRU9vzunxsXqjk-gdcb8m5-aufFd37TkksGIZHVsC"
+    },
+    {
+      "name": "lib/android-all-instrumented-10-robolectric-5803371-i7.jar",
+      "size": 116486192,
+      "hash": "cA-zu4j_NGlpuVUkG4bS9V05VIi_XfHo7d-9ADmAx4oC"
+    },
+    {
+      "name": "lib/android-all-instrumented-11-robolectric-6757853-i7.jar",
+      "size": 126899852,
+      "hash": "f0rMrkZaR-dedZGHe5jnH7mCqQjP_Euks8oDGctqChAC"
+    },
+    {
+      "name": "lib/android-all-instrumented-12-robolectric-7732740-i7.jar",
+      "size": 142898719,
+      "hash": "7i2-KL_mPdzjSi1jHGFowTH3iky1jK602DKYjpNnYMsC"
+    },
+    {
+      "name": "lib/android-all-instrumented-12.1-robolectric-8229987-i7.jar",
+      "size": 154759126,
+      "hash": "S8-P3mLeMdDG1rmL1merydpSbUaEjTEoS1I4ymGSw8oC"
+    },
+    {
+      "name": "lib/android-all-instrumented-13-robolectric-9030017-i7.jar",
+      "size": 163233590,
+      "hash": "HD_RgsA9R2Jmhso7OcTsW9sImLEFb064-W8yxiCaXAQC"
+    },
+    {
+      "name": "lib/android-all-instrumented-14-robolectric-10818077-i7.jar",
+      "size": 151142227,
+      "hash": "P9rC1GP0Mca42DudDKc555Xedf_-3uZIxnYb1L2GRwEC"
+    },
+    {
+      "name": "lib/android-all-instrumented-15-robolectric-12650502-i7.jar",
+      "size": 199527464,
+      "hash": "M8LXzEGG1GBSadXUEfoYGJcsWzCp9wv7vT1DCwdq9S8C"
+    },
+    {
+      "name": "lib/android-all-instrumented-5.0.2_r3-robolectric-r0-i7.jar",
+      "size": 63167823,
+      "hash": "p1SD8DA0GChYtiEWTPhLqpdG2DeCo9z9a77954_XRHgC"
+    },
+    {
+      "name": "lib/android-all-instrumented-6.0.1_r3-robolectric-r1-i7.jar",
+      "size": 79180251,
+      "hash": "vJFI1UjOaHXw35qtsFNe8uOlqM84X0elxsQGCnqrTnUC"
+    },
+    {
+      "name": "lib/android-all-instrumented-7.0.0_r1-robolectric-r1-i7.jar",
+      "size": 88212080,
+      "hash": "V9yNV6XWmtrPOqQwau-_FHvRYh2jR-IPPPH0HIil3UkC"
+    },
+    {
+      "name": "lib/android-all-instrumented-7.1.0_r7-robolectric-r1-i7.jar",
+      "size": 88877687,
+      "hash": "Q1seZYEMSRmPJFavy0cJsW-YxDqzbwopV9-w--x99-wC"
+    },
+    {
+      "name": "lib/android-all-instrumented-8.0.0_r4-robolectric-r1-i7.jar",
+      "size": 94512384,
+      "hash": "cSGWNWv2H7yxhvQRNcM-bTQWvjFUPXvhIKM7yJjMEggC"
+    },
+    {
+      "name": "lib/android-all-instrumented-8.1.0-robolectric-4611349-i7.jar",
+      "size": 96651178,
+      "hash": "mqhxVOS0ZO3XvU9_iHBAJZmi2QwUxmDtaQfULHQQ4F8C"
+    },
+    {
+      "name": "lib/android-all-instrumented-9-robolectric-4913185-2-i7.jar",
+      "size": 106130412,
+      "hash": "27HIiYe1TO8xMmlaG00vSFG6Bihqb6fRV3L5j9HwzfcC"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/dagger_compiler",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "dagger-compiler.jar",
+      "size": 17111920,
+      "hash": "aEHFCUQAGKSeR6dw-Zc_xFI4zu_R9CrU9nk6ReoKqN0C"
+    }
+  ]
+}

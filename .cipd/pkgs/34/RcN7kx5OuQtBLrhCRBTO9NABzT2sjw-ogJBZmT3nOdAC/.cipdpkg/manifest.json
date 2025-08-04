@@ -1,0 +1,1682 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/autorolled",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "BUILD.gn",
+      "size": 84060,
+      "hash": "0-PWUDf3bgUtfmydX1Agzglpcrrl0AVQcHGr7XgvfXoC"
+    },
+    {
+      "name": "VERSION.txt",
+      "size": 31,
+      "hash": "27o5vk8NRxYtFsaHFVm0O5xgiRikDt53-vkSWG-ded8C"
+    },
+    {
+      "name": "additional_readme_paths.json",
+      "size": 5736,
+      "hash": "x38DZjY9SmCFl2ksI4fMcRnrQbywtgQsDJ3kr60koSUC"
+    },
+    {
+      "name": "bill_of_materials.json",
+      "size": 45453,
+      "hash": "OnHpW-K1Ii7MYQvDJ1mXUpTN0gE3AXq4VxAM5-B-X6wC"
+    },
+    {
+      "name": "build.gradle",
+      "size": 29704,
+      "hash": "o8pBoCrgpARsq-xQLPT9FIjcakuS5bZ16hW5ZqrcUfwC"
+    },
+    {
+      "name": "libs/com_airbnb_android_lottie/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_airbnb_android_lottie/README.chromium",
+      "size": 368,
+      "hash": "5eGCLov6a_cFeeBGx76M7KzmfquaA8lZ-_dT-Dxr-CoC"
+    },
+    {
+      "name": "libs/com_airbnb_android_lottie/com_airbnb_android_lottie.info",
+      "size": 382,
+      "hash": "7aUKq2G36_KxLd7pj1eKMk3_dkKvhDaX1yhUiX7lzUQC"
+    },
+    {
+      "name": "libs/com_airbnb_android_lottie/lottie-6.6.7.aar",
+      "size": 427019,
+      "hash": "TvgJjFIkAW02WFdlhT30qXD6JjL2SjksAIzoIWFzNnIC"
+    },
+    {
+      "name": "libs/com_google_android_annotations/LICENSE",
+      "size": 16389,
+      "hash": "YaGswzfg_1RdwmMh5NlXXPxp0_IkEpit-Q1pCt-2t3wC"
+    },
+    {
+      "name": "libs/com_google_android_annotations/README.chromium",
+      "size": 395,
+      "hash": "5g2LlbI--1NACheQzI7HVEbnn__iqdFi6En8kn9R1w4C"
+    },
+    {
+      "name": "libs/com_google_android_annotations/annotations-4.1.1.4.jar",
+      "size": 3120,
+      "hash": "unNOHoTAnWFa9qCdMwNLTwRC-Hct7BIO-zdthqVlrhUC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_api/LICENSE",
+      "size": 16389,
+      "hash": "YaGswzfg_1RdwmMh5NlXXPxp0_IkEpit-Q1pCt-2t3wC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_api/README.chromium",
+      "size": 370,
+      "hash": "r3_yu0X-aEZry8sdaNDEFxARfsBP3C-sNnZ2v8kx9ScC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_api/com_google_android_datatransport_transport_api.info",
+      "size": 370,
+      "hash": "ikAOi-XLlwFEz4hoJmmcxIlwA8iMNuhvzyWUx1IthpQC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_api/transport-api-3.1.0.aar",
+      "size": 8464,
+      "hash": "fa_Dnw6oNUczZqzDRvfmf8hEP0xkXZmcPph7yta4jHsC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_backend_cct/LICENSE",
+      "size": 16389,
+      "hash": "YaGswzfg_1RdwmMh5NlXXPxp0_IkEpit-Q1pCt-2t3wC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_backend_cct/README.chromium",
+      "size": 399,
+      "hash": "yOl_tiZtcYe77EY33MUPOBKAXHM8vc9_jeOa8P1IWBcC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_backend_cct/com_google_android_datatransport_transport_backend_cct.info",
+      "size": 383,
+      "hash": "fJyqrddZwbkpEeT5Vly6WWhvBe8Q4kTdUhSNVv12278C"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_backend_cct/transport-backend-cct-3.1.9.aar",
+      "size": 53551,
+      "hash": "B6MgJaZbCO5-EdFNxTmnWLZnE_DB0TkAqBWZzq269E0C"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_runtime/LICENSE",
+      "size": 27757,
+      "hash": "Md_9j2MYwqfoLHvAGismN2vasiHweZoeovZJni7yVCAC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_runtime/README.chromium",
+      "size": 387,
+      "hash": "67FfYTo7wTXNtylFRV9jWs9YxJtmzKg-GdL3SPA0zgAC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_runtime/com_google_android_datatransport_transport_runtime.info",
+      "size": 380,
+      "hash": "aaa82UgfcZkHgTWLwJNafQ9xhN3paciGDbx-dtjM2bgC"
+    },
+    {
+      "name": "libs/com_google_android_datatransport_transport_runtime/transport-runtime-3.1.9.aar",
+      "size": 179644,
+      "hash": "QXRcW49CfSRDkBW4T2Ua1CBxiZGGfSr8JiwmQAm4AsEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth/LICENSE",
+      "size": 438056,
+      "hash": "rYkD6pgkBYSDGlDRSmn9vo5R6o_Dxd_Y3HXTa84ungUC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth/README.chromium",
+      "size": 385,
+      "hash": "BDd_xf3sZU2hSRgL8fQhNae7hOJ5_X1r26z01YFc15EC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth/com_google_android_gms_play_services_auth.info",
+      "size": 626,
+      "hash": "KKxHrG5zhTxb6deE1o3Dy7Vh2zplkjNmiXSi2MyJN5cC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth/play-services-auth-21.4.0.aar",
+      "size": 226589,
+      "hash": "STjwFj-k1lI2evrN9ZiWMuUVlE_DNU4M_EodQHiT0qEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_api_phone/LICENSE",
+      "size": 347734,
+      "hash": "9oO09el-KTBXvmGWWYDGsQS4iHNFqB1OwEMhPi1VVWcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_api_phone/README.chromium",
+      "size": 415,
+      "hash": "EVQmek6kpycwIUN7xwESVKGAtFSDOcCkcBLwSy_QAtEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_api_phone/com_google_android_gms_play_services_auth_api_phone.info",
+      "size": 376,
+      "hash": "06xIyEBEaCL4M-uYdqNx3yrt73XBHyt0prraCh5siccC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_api_phone/play-services-auth-api-phone-18.2.0.aar",
+      "size": 105177,
+      "hash": "FZY_oc8IrSd4_VTxfvcst1l68V9AQViFgzsSQDaSMPMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_base/LICENSE",
+      "size": 432370,
+      "hash": "HvAo5b4hC2BN4fQsy_XPrLUPJvyZ92h7IakCCpb6XagC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_base/README.chromium",
+      "size": 400,
+      "hash": "nF2cmE7SuSVaupJ5gUS_eoff32jUm2o6ixVvErAxqLMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_base/com_google_android_gms_play_services_auth_base.info",
+      "size": 365,
+      "hash": "uv7M9qwn77Pihmd6SFXfDnsPFH6EsRQhqvod7L8x5GYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_base/play-services-auth-base-18.3.0.aar",
+      "size": 813381,
+      "hash": "pDWnquibGXeyRB1b0ktwvzoALSl7V5YWOgfFz8TwlY4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_blockstore/LICENSE",
+      "size": 336352,
+      "hash": "fxU1-ouFCoMEAdtxvG0rQ5N79Csg7s_39wLpnnwO4qwC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_blockstore/README.chromium",
+      "size": 418,
+      "hash": "frHZsdjU1E2fBf2T5g8fXylsGmnb3q80jRj_f7S7zP0C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_blockstore/com_google_android_gms_play_services_auth_blockstore.info",
+      "size": 377,
+      "hash": "GPtTQHXspG053B-fiNUrDxYOyuxQcklelFvh5PYBiRoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_auth_blockstore/play-services-auth-blockstore-16.4.0.aar",
+      "size": 132536,
+      "hash": "fnDyDKhxCng7-9smizVgMQUInlUTQxPJd-W6ag-uSTgC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_base/LICENSE",
+      "size": 347734,
+      "hash": "9oO09el-KTBXvmGWWYDGsQS4iHNFqB1OwEMhPi1VVWcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_base/README.chromium",
+      "size": 385,
+      "hash": "-edDHoAj_AtIsLhCzd5DdeQRqVP2lYQNY9pDnd3L8Z8C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_base/com_google_android_gms_play_services_base.info",
+      "size": 5808,
+      "hash": "JO-765OQ1uv-xu7CqPcZkYB98waAtlcqMkExAgkwVm0C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_base/play-services-base-18.7.2.aar",
+      "size": 608501,
+      "hash": "dPc712N2yZbBvmwKfDCQ22NvjQvWUdqrGBHdMrSQtgoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_basement/LICENSE",
+      "size": 347734,
+      "hash": "9oO09el-KTBXvmGWWYDGsQS4iHNFqB1OwEMhPi1VVWcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_basement/README.chromium",
+      "size": 397,
+      "hash": "pPR3xY1dGWY67hvP0uzE955Vx48qaXGVUjXL-sXfthEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_basement/com_google_android_gms_play_services_basement.info",
+      "size": 2833,
+      "hash": "tc1t7QuNns22_H9ceqUEsljntLjyK83WZZV4JdLHWCoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_basement/play-services-basement-18.7.1.aar",
+      "size": 438189,
+      "hash": "AwyDjEHK4i3P6OliVsuK9NPNDn3u3ERFXaCNAKOSw5kC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast/LICENSE",
+      "size": 372023,
+      "hash": "YUQRUkMXDUqOGJxObwUIDi8VaW6wHJksLBR0Mx2K-eIC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast/README.chromium",
+      "size": 385,
+      "hash": "yfE8LGBZtao3gRVlJeNNvo87QRpuAlp76XJPgW1ErzYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast/com_google_android_gms_play_services_cast.info",
+      "size": 3748,
+      "hash": "AQ3ygz5ASS9UuX0I21ZAl52UUiZWLGYsyXjJW9PhL0MC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast/play-services-cast-22.1.0.aar",
+      "size": 701238,
+      "hash": "-OkZ_LybkKnbTcSbsFkt9b_fsMUcPcsPq2d_PC-NWGEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast_framework/LICENSE",
+      "size": 445285,
+      "hash": "Sp18pNQ8IRz_I-xurcI_pMjtIlK46EaQOdtcShVSeTUC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast_framework/README.chromium",
+      "size": 415,
+      "hash": "itli3x7CGLXPzZsq1mlmB3qBk18e7-XrQT5xr6DtHPcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast_framework/com_google_android_gms_play_services_cast_framework.info",
+      "size": 20630,
+      "hash": "aBKY84ieaZuLSVoX8vQ_cGs9gWzC52jBig79IDCNOIYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cast_framework/play-services-cast-framework-22.1.0.aar",
+      "size": 778657,
+      "hash": "9_6c7_cBjGrmOw7C-BwgqRm4dK1YjmCBRGsd26FlmD4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_clearcut/LICENSE",
+      "size": 72126,
+      "hash": "uiINFqOFxLirh86lVCUF3OtoJQ8ziJIpsLW1x08hpKcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_clearcut/README.chromium",
+      "size": 397,
+      "hash": "sYDw4ucBltORPPm9AI2S7l7MQW6keOp_4qL913VkehoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_clearcut/com_google_android_gms_play_services_clearcut.info",
+      "size": 369,
+      "hash": "pZBtzlZgF1ICwTd7qBO-AhHn8xbaddzOVck9eSC7MUIC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_clearcut/play-services-clearcut-17.0.0.aar",
+      "size": 308903,
+      "hash": "zOcgc8JpwrTP8wEwR1Hy-qLNGwNE_vWBpZ2mNmX5pLQC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cloud_messaging/LICENSE",
+      "size": 336352,
+      "hash": "fxU1-ouFCoMEAdtxvG0rQ5N79Csg7s_39wLpnnwO4qwC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cloud_messaging/README.chromium",
+      "size": 421,
+      "hash": "3sLjYXL2ncx6k3NpxpjhUZdDAU9oWonvKyNJmztWzIUC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cloud_messaging/com_google_android_gms_play_services_cloud_messaging.info",
+      "size": 377,
+      "hash": "GPR9BxZqR6zc3Hijg9ql1H-c6E5nM8P4CLDHl9eyeToC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_cloud_messaging/play-services-cloud-messaging-17.2.0.aar",
+      "size": 103747,
+      "hash": "JyVef-lwZIOBaxWNslzzGfaiagVm_v9BWXzogHo1DjcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_fido/LICENSE",
+      "size": 444864,
+      "hash": "5RiJ59EPHep_YDXhwLH01mAUlHaZviJHMR73ZtrIWZoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_fido/README.chromium",
+      "size": 385,
+      "hash": "atomsVu6QzvqZsLmix1WtCBAKBALQQwZFJMJkm-QFFYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_fido/com_google_android_gms_play_services_fido.info",
+      "size": 365,
+      "hash": "AypW0OlvVDIxcVmk4qP9ctnVik18ecydL1_Y7QroOXoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_fido/play-services-fido-21.2.0.aar",
+      "size": 455876,
+      "hash": "ob7zaSSDC0d-IyI55L9iKIrSwxDFpOilXTmXITk6Eu4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_flags/LICENSE",
+      "size": 88057,
+      "hash": "ZU_4A2bDh4BjMOMdlAwAucNtRqo1bRyGIy2hhBheSbkC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_flags/README.chromium",
+      "size": 388,
+      "hash": "m13vFuQRxoZ2hi_WgPNeRs8npy_nMyaZlEc-D4DzzSwC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_flags/com_google_android_gms_play_services_flags.info",
+      "size": 367,
+      "hash": "-SKJIhiYh_PPyk3KOlKehSzpzRx_gjayVL4TVlj65vsC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_flags/play-services-flags-18.1.0.aar",
+      "size": 16887,
+      "hash": "SKGmiU-WR5L1f2-PfnV-xA-D9D0SrDUVikddeuTMvsAC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_gcm/LICENSE",
+      "size": 64921,
+      "hash": "NLCSAwrQA4fuephuh-nvTpSXe4ssh8j_UmEBuWaUdMsC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_gcm/README.chromium",
+      "size": 382,
+      "hash": "xjqWQTthy2H2Psjs4eY9IzuzJQ27ZoFll1sQ1pi7TDoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_gcm/com_google_android_gms_play_services_gcm.info",
+      "size": 2830,
+      "hash": "aVMY090uMLp_IBx7iN9mmK1PzZq0NmR427IV1wXOP_YC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_gcm/play-services-gcm-17.0.0.aar",
+      "size": 88124,
+      "hash": "ZGy-9izyN_KEe0YtHNaWp3VaYEg8Nc6qRMtUBLPMBq8C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_identity_credentials/LICENSE",
+      "size": 347734,
+      "hash": "9oO09el-KTBXvmGWWYDGsQS4iHNFqB1OwEMhPi1VVWcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_identity_credentials/README.chromium",
+      "size": 441,
+      "hash": "9yNs0IgpZbUEQQeH3QiEiXMhWQi1nOYJi3WfkrqogHYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_identity_credentials/com_google_android_gms_play_services_identity_credentials.info",
+      "size": 380,
+      "hash": "PIqHuvJIPHc8ctupzdSvex16JGpveUqwGvONVIn_6AMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_identity_credentials/play-services-identity-credentials-16.0.0-alpha08.aar",
+      "size": 254198,
+      "hash": "jQAdMUxU1sfAEUFcTfdKVdL-w8Kn_J1f_1mo2IL_lB4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_iid/LICENSE",
+      "size": 87926,
+      "hash": "PZtsNCv_uRXI5n6OhBKfS5Or45pz7kxuGNRk555drPoC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_iid/README.chromium",
+      "size": 382,
+      "hash": "6Kdx79B0RMsFfdTjUKwN990mTV69V92YN0EPVsaYPqUC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_iid/com_google_android_gms_play_services_iid.info",
+      "size": 366,
+      "hash": "4eolq7_BmVMLfAutzNxReKRLlU7i7Rnnt-98s391VbkC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_iid/play-services-iid-17.0.0.aar",
+      "size": 57180,
+      "hash": "193OrIYS3lsJE3FlEnnrRh9c9vm2bZ2V0Hw4O4GZGGkC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_instantapps/LICENSE",
+      "size": 349496,
+      "hash": "U59o4UMJQfQ2gRXIECekAjU9FJzDvK3z7tYbl5wZ1mkC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_instantapps/README.chromium",
+      "size": 406,
+      "hash": "7ShJdAbAJsedLM-pYtOR4wGlaLfHiHX2B07Sytx1ausC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_instantapps/com_google_android_gms_play_services_instantapps.info",
+      "size": 372,
+      "hash": "-m4UA9x2RwDhllEtWyFYi-NLUl5ozXqkwaIEZjiWvM4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_instantapps/play-services-instantapps-18.2.0.aar",
+      "size": 288959,
+      "hash": "a0TXitaD53uAC8aGuoMleM1fC1YPj8pIPTPmyJXrsikC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_location/LICENSE",
+      "size": 383602,
+      "hash": "WrVT3c-DyNImlzlf5pRn2vuogtPuwqGiuye2I-KI7IMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_location/README.chromium",
+      "size": 408,
+      "hash": "-3ZlyeSTJpjxSyzJvulzYfzHvpA1q2NwoWDDQlG4YqMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_location/com_google_android_gms_play_services_location.info",
+      "size": 370,
+      "hash": "9zOULiKpw6l6nul6nIrNO4G70kYi_RNrCSehqujr-DwC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_location/play-services-location-21.3.0.aar",
+      "size": 193052,
+      "hash": "1QJDhNW_Zsde3zU9leuOe1v2RIMThHTG4uk-LCOU-EIC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_phenotype/LICENSE",
+      "size": 72126,
+      "hash": "uiINFqOFxLirh86lVCUF3OtoJQ8ziJIpsLW1x08hpKcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_phenotype/README.chromium",
+      "size": 400,
+      "hash": "GNI9Sh3WoiZDt39rJXYxTdZweFBkvekBUrXZpKwKoNEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_phenotype/com_google_android_gms_play_services_phenotype.info",
+      "size": 371,
+      "hash": "l-JssgsWXQtDzTV7FKcKRbvGebDtNa3dpzkmemf3DqEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_phenotype/play-services-phenotype-17.0.0.aar",
+      "size": 38860,
+      "hash": "U9QKIF5IrU41kjoB8E2YUKy9dAOz0w-ziOWG-tFUDs4C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_stats/LICENSE",
+      "size": 88057,
+      "hash": "ZU_4A2bDh4BjMOMdlAwAucNtRqo1bRyGIy2hhBheSbkC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_stats/README.chromium",
+      "size": 388,
+      "hash": "TLH808u_3Hi0e2507zY5pB1SbIRWBwAATJ01BcJlQK0C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_stats/com_google_android_gms_play_services_stats.info",
+      "size": 367,
+      "hash": "0HqtV5P7dUQDQvhrg48W3MmwiUsXvurNtFbHh6iUOHYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_stats/play-services-stats-17.0.2.aar",
+      "size": 14753,
+      "hash": "3UMUpT9Jo3jsFGED02IyuWx1RU0pUmM2zL3xMpQXZNMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_tasks/LICENSE",
+      "size": 347734,
+      "hash": "9oO09el-KTBXvmGWWYDGsQS4iHNFqB1OwEMhPi1VVWcC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_tasks/README.chromium",
+      "size": 388,
+      "hash": "WH4-rEcKHhEl2eu7LlUeM8ABQQhPjwO_XLp40zxA1h8C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_tasks/com_google_android_gms_play_services_tasks.info",
+      "size": 366,
+      "hash": "G-rDPyBJIar6y5HdDCT6ZIr2yj4yoLcwYGdxDUdMRv0C"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_tasks/play-services-tasks-18.3.2.aar",
+      "size": 99876,
+      "hash": "_8Q7fWVrvOqDc2CbmlGKDZ8DL3Gf85Xn01s11kuyCjMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision/LICENSE",
+      "size": 99446,
+      "hash": "cZr6HZzRgXPG9P2I8hhr9zpWpz6jlSierJX_00ArdmQC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision/README.chromium",
+      "size": 391,
+      "hash": "CkXp6daojbuWSB0EbCM-dBbdLuZ96bcrSnUYnsAkskEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision/com_google_android_gms_play_services_vision.info",
+      "size": 367,
+      "hash": "_Cqr7AaieGJPXyVuEbGLFGLhgV0U_8t1K20oLjC8zaAC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision/play-services-vision-20.1.3.aar",
+      "size": 95531,
+      "hash": "1wFzylqH-inGeUQ94bxrA7bukjea7stIRjQDpC7JkwMC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision_common/LICENSE",
+      "size": 99446,
+      "hash": "cZr6HZzRgXPG9P2I8hhr9zpWpz6jlSierJX_00ArdmQC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision_common/README.chromium",
+      "size": 412,
+      "hash": "SjZZy7uXoIzgp65OyEMjRYAhZJOfBGHSDRyTLVaMEFYC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision_common/com_google_android_gms_play_services_vision_common.info",
+      "size": 374,
+      "hash": "izhxd0scEApbSWtGkOI-26eEmOfThvg6I_p9NVQHstEC"
+    },
+    {
+      "name": "libs/com_google_android_gms_play_services_vision_common/play-services-vision-common-19.1.3.aar",
+      "size": 400422,
+      "hash": "H_ampS0UpADyfjwZGR87ThhcB781q2o5aynVAHfsdWIC"
+    },
+    {
+      "name": "libs/com_google_android_libraries_identity_googleid_googleid/LICENSE",
+      "size": 812527,
+      "hash": "XHUs9n-YoRwVELpKENoItDlmE2lyPvgrrryOmWxaiiQC"
+    },
+    {
+      "name": "libs/com_google_android_libraries_identity_googleid_googleid/README.chromium",
+      "size": 374,
+      "hash": "4lhCMcy_spvrtNozhgOF0KqsMG2_sI2FWlMNaY1cYecC"
+    },
+    {
+      "name": "libs/com_google_android_libraries_identity_googleid_googleid/com_google_android_libraries_identity_googleid_googleid.info",
+      "size": 384,
+      "hash": "bobY-B_aSHDSE8lYMg36zFOThgIsRitIsJP6J6N2TAwC"
+    },
+    {
+      "name": "libs/com_google_android_libraries_identity_googleid_googleid/googleid-1.1.1.aar",
+      "size": 91755,
+      "hash": "Apn8DlIYtcdmI--MvrufvRZNA-1LSHtBjemjTyvpjbkC"
+    },
+    {
+      "name": "libs/com_google_android_material_material/LICENSE",
+      "size": 16389,
+      "hash": "YaGswzfg_1RdwmMh5NlXXPxp0_IkEpit-Q1pCt-2t3wC"
+    },
+    {
+      "name": "libs/com_google_android_material_material/README.chromium",
+      "size": 595,
+      "hash": "HEyYdRHjDb59uYvQQKJpba6buKd-ESG6r-RxUf1hOAQC"
+    },
+    {
+      "name": "libs/com_google_android_material_material/com_google_android_material_material.info",
+      "size": 26216,
+      "hash": "RHuf_u7fBdmxDteCd5RXHjncEYCbHM1FqXkYMmwg_y0C"
+    },
+    {
+      "name": "libs/com_google_android_material_material/material-1.14.0-alpha03.aar",
+      "size": 2540241,
+      "hash": "hpgC-RsXmuiFIXHp-TEFpT3JIcAXeAE4qY7Ym24EFJsC"
+    },
+    {
+      "name": "libs/com_google_android_play_core_common/LICENSE",
+      "size": 743876,
+      "hash": "rzMWdiQJjVYQlkquM8qvsf-wUcV48r1CYwxx6r9ZzvAC"
+    },
+    {
+      "name": "libs/com_google_android_play_core_common/README.chromium",
+      "size": 360,
+      "hash": "GQg1J8qMusvPHav2r17sVC7ZbqufnNqSajknE0SUa1cC"
+    },
+    {
+      "name": "libs/com_google_android_play_core_common/com_google_android_play_core_common.info",
+      "size": 400,
+      "hash": "a1ZUnI5FbwOi4mbbceIQEwHD8PQX38eUXN-f8cN7lN8C"
+    },
+    {
+      "name": "libs/com_google_android_play_core_common/core-common-2.0.3.aar",
+      "size": 137891,
+      "hash": "QwMlXxUsWblUkZu0cdFO5f7S33g1Zd6oUosICDunNCsC"
+    },
+    {
+      "name": "libs/com_google_android_play_feature_delivery/LICENSE",
+      "size": 769140,
+      "hash": "ZjcvVPqQllD9Cu-jJU7dWlJ93Xlmd6N4ZcMS5l9zxEcC"
+    },
+    {
+      "name": "libs/com_google_android_play_feature_delivery/README.chromium",
+      "size": 375,
+      "hash": "rpFaExh6ZKYo0KkEv4S3y2394u7VQEmyUb4hLmAYRZ8C"
+    },
+    {
+      "name": "libs/com_google_android_play_feature_delivery/com_google_android_play_feature_delivery.info",
+      "size": 378,
+      "hash": "qfRfi0tz6godxjzVqBc_HaWnhNEOc9rz4BN8wijYJ7kC"
+    },
+    {
+      "name": "libs/com_google_android_play_feature_delivery/feature-delivery-2.1.0.aar",
+      "size": 312128,
+      "hash": "CFvUYyzPls6vy_sQIZrlfWBMX2gKLqO_hg_isomv5a0C"
+    },
+    {
+      "name": "libs/com_google_auto_service_auto_service_annotations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_auto_service_auto_service_annotations/README.chromium",
+      "size": 350,
+      "hash": "jmXq9c4iQ8UGXIXQyaqN_3LBkc5awhtAoKZXKwWkI_UC"
+    },
+    {
+      "name": "libs/com_google_auto_service_auto_service_annotations/auto-service-annotations-1.1.1.jar",
+      "size": 3172,
+      "hash": "Fqdt0AomUFaER_XW46niyAnZpCNn1WtFIVz7iXMfTSQC"
+    },
+    {
+      "name": "libs/com_google_auto_value_auto_value_annotations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_auto_value_auto_value_annotations/README.chromium",
+      "size": 357,
+      "hash": "U_-0O2wRwVit_Cze0dRi3ALv0ADFVx5h8BGEgD51AcgC"
+    },
+    {
+      "name": "libs/com_google_auto_value_auto_value_annotations/auto-value-annotations-1.11.0.jar",
+      "size": 7491,
+      "hash": "WgVc5CVTM7M0bhqHA9pb-P8ElTIob9zTFxLWJKvhEd0C"
+    },
+    {
+      "name": "libs/com_google_code_findbugs_jsr305/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_code_findbugs_jsr305/README.chromium",
+      "size": 304,
+      "hash": "jXmzWUnqvdf2tEGiVPoiXK-_PdgKXDUNaPmGLi8Ro1oC"
+    },
+    {
+      "name": "libs/com_google_code_findbugs_jsr305/jsr305-3.0.2.jar",
+      "size": 19936,
+      "hash": "dmrSoHg_JoeWLIrXTO7MOKKLn3Ki0IXuQ4t4E-ko0McC"
+    },
+    {
+      "name": "libs/com_google_code_gson_gson/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_code_gson_gson/README.chromium",
+      "size": 357,
+      "hash": "jxmf15ICONxRctYf6jYHHazKF15lng1Oh43Y6AK27iwC"
+    },
+    {
+      "name": "libs/com_google_code_gson_gson/gson-2.13.1.jar",
+      "size": 286972,
+      "hash": "lIVZQtSZLxEpRtPeHDNOcJI3uBJtgTC_B4B8AYpKISAC"
+    },
+    {
+      "name": "libs/com_google_errorprone_error_prone_annotations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_errorprone_error_prone_annotations/README.chromium",
+      "size": 351,
+      "hash": "mK-36f9KuWKs_oWps2bS5_hs9PHZEs8am2U2j-GCJh4C"
+    },
+    {
+      "name": "libs/com_google_errorprone_error_prone_annotations/error_prone_annotations-2.41.0.jar",
+      "size": 20389,
+      "hash": "pW54K1tQgRrCBAc6NVoh2RWiEH_OE-xxEzGtA29mD8wC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_annotations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_annotations/README.chromium",
+      "size": 325,
+      "hash": "PyJFZ48TRNYjZm-Q8pVSQsHDSK5E5xOsW21nCuKToI0C"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_annotations/firebase-annotations-17.0.0.jar",
+      "size": 3517,
+      "hash": "-AMF5ve10REnjU35UE9R9yMOBsZFeg-nwW4jbHYTzHEC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_common/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_common/README.chromium",
+      "size": 311,
+      "hash": "1ErLkS7XuCCUi9FyCgTbB1BY6APmj1yd8BphC_iAjWkC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_common/com_google_firebase_firebase_common.info",
+      "size": 395,
+      "hash": "vHiClv99Be9bJ-ObUk7BGZ_zI5EIBgbGllbZiQmhRIcC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_common/firebase-common-22.0.0.aar",
+      "size": 120687,
+      "hash": "_1AcVTUcisKmcs0wN9_s9e3Q6s-W3fePB0z_nYK63fsC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_components/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_components/README.chromium",
+      "size": 335,
+      "hash": "0Pv_C5wFsc8aWpX3mGNvbGbQRZXiPkhdk_XUhKDSVP0C"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_components/com_google_firebase_firebase_components.info",
+      "size": 368,
+      "hash": "bYegoCKtiZ3NoSlPvVJdTEDphOoOaAbY3FODbzCHKGAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_components/firebase-components-19.0.0.aar",
+      "size": 45744,
+      "hash": "XXlZf3d0svaK1X6RwlkuiezvTQml8cXAPHX1c_AMs-QC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_datatransport/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_datatransport/README.chromium",
+      "size": 345,
+      "hash": "NJX0qoXefHCSkWEgZWJs4N8l_cbIUwwnCPKvc0Wt_uYC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_datatransport/com_google_firebase_firebase_datatransport.info",
+      "size": 372,
+      "hash": "rFlMlFkpXjypYDdsMqunPbPoH3JgpGHwK92XG_NSwIYC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_datatransport/firebase-datatransport-18.2.0.aar",
+      "size": 5825,
+      "hash": "srKPa6Fz9eDE_j02otfuUjnHrL9BQ7VJ7PAxo0hbNbsC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders/README.chromium",
+      "size": 323,
+      "hash": "Vc9R79PJ3v6-qVwlgCLU3lujo-LXtPIrSmNVevpIL0oC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders/firebase-encoders-17.0.0.jar",
+      "size": 17847,
+      "hash": "KCpacD-bfrVlCN3pfqkY6V1zMYsVcFD0V_eobcp1AVAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_json/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_json/README.chromium",
+      "size": 328,
+      "hash": "FXWS9KWjaT43bTzZy_V3TQB7RFo9I6pnA7T2RnJgBUQC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_json/com_google_firebase_firebase_encoders_json.info",
+      "size": 371,
+      "hash": "VnKtl8_pS-hk40XTo2u-xp2RnClNIk5gsCb-sWxaxTkC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_json/firebase-encoders-json-18.0.0.aar",
+      "size": 9223,
+      "hash": "gK7Ofh71iVfKL8GVe8kgjskqOpUoIBMx08Y-MYJXD5cC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_proto/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_proto/README.chromium",
+      "size": 348,
+      "hash": "xBagLw5p6RAXwtgapF90tXZu8_laV7psh5qK0WnkMVgC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_encoders_proto/firebase-encoders-proto-16.0.0.jar",
+      "size": 38980,
+      "hash": "KT25ag0dQ_AzFniBtjjY_ehE5OVJX1EBz1IpV2UpXg4C"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_iid_interop/LICENSE",
+      "size": 88057,
+      "hash": "ZU_4A2bDh4BjMOMdlAwAucNtRqo1bRyGIy2hhBheSbkC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_iid_interop/README.chromium",
+      "size": 357,
+      "hash": "EWDwA50xyg9ZpV69ityiYLP_w62ULX9xoJDnwMusOicC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_iid_interop/com_google_firebase_firebase_iid_interop.info",
+      "size": 371,
+      "hash": "t03k-EiC0bqWUewjdwj3GW0WzIdxBgJqixF2UAixDIEC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_iid_interop/firebase-iid-interop-17.1.0.aar",
+      "size": 8426,
+      "hash": "C3w3IchLYucEFTByOe1Kf5mJiQhL8oM_kLn1vqMJWgUC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations/README.chromium",
+      "size": 365,
+      "hash": "qyNlP3fQASrNxHQ98QWOFB_ctylhc6UaNJ-rX7dljKMC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations/com_google_firebase_firebase_installations.info",
+      "size": 373,
+      "hash": "Z7ybM30kNOVK6dsHvU8CIG1PefAp9EhZ0CmeTCPww0kC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations/firebase-installations-18.0.0.aar",
+      "size": 57739,
+      "hash": "lQY637F__kkrEvaOcwIIc4FNgXeqVTBpytZOEdjHkpIC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations_interop/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations_interop/README.chromium",
+      "size": 357,
+      "hash": "jluNGBi4GyveSeZhA0djocyVt7vyzyKbUwC_wmBo9iQC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations_interop/com_google_firebase_firebase_installations_interop.info",
+      "size": 379,
+      "hash": "mgMOcfX1lAd9lrOhtB-bToXpaM5Pzf5iwLH7x8sWI9YC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_installations_interop/firebase-installations-interop-17.1.1.aar",
+      "size": 8166,
+      "hash": "-sZQaA95IfSrkvC7IaCSNLEs2u-rLPcBiCgdfqUrja0C"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_measurement_connector/LICENSE",
+      "size": 121556,
+      "hash": "rENogq4Pmr-lksaGq0MTJnr0hhb3ZW5JR0QiMHp810AC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_measurement_connector/README.chromium",
+      "size": 392,
+      "hash": "qL5iuSTLfETjZvthsiUUABMb9x3WkI3A6PjSWFXcDs4C"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_measurement_connector/com_google_firebase_firebase_measurement_connector.info",
+      "size": 378,
+      "hash": "JzrFn6o27v1CzV1vGa6aZiMOYXS09T8SazRTbDEEt6cC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_measurement_connector/firebase-measurement-connector-19.0.0.aar",
+      "size": 10625,
+      "hash": "26dNa_lGR-45e_evsqsH9v6NExV-VnhfpUCioT7YLJkC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_messaging/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_messaging/README.chromium",
+      "size": 355,
+      "hash": "tQoFFFZOpSdVLtwsOhKSOKAxlqoHZKa6N-kRTn0Dl3gC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_messaging/com_google_firebase_firebase_messaging.info",
+      "size": 395,
+      "hash": "3k9INoIhFit_kooTPYBHbEcdm69hrgLHLEjmtlh57roC"
+    },
+    {
+      "name": "libs/com_google_firebase_firebase_messaging/firebase-messaging-25.0.0.aar",
+      "size": 146644,
+      "hash": "JHnOHAUv0Xvs6h9IwnMwzUWrZI2XLgu1qr1KXxMXyGcC"
+    },
+    {
+      "name": "libs/com_google_guava_failureaccess/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_guava_failureaccess/README.chromium",
+      "size": 708,
+      "hash": "dYzM5OWOCEnoG-QFDDQBCQKMJP9O5L74aMquhOlCfk8C"
+    },
+    {
+      "name": "libs/com_google_guava_failureaccess/failureaccess-1.0.3.jar",
+      "size": 10763,
+      "hash": "y_w5BrGbj1XdfP1t_gqkUy6DQlDX8IC9jSEaPiRrWcsC"
+    },
+    {
+      "name": "libs/com_google_guava_guava/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_guava_guava/README.chromium",
+      "size": 424,
+      "hash": "2TKV3R_0tqoXBWk03rnd3oy-LHrPJdSrstqVqoOJdIIC"
+    },
+    {
+      "name": "libs/com_google_guava_guava/guava-33.4.8-android.jar",
+      "size": 2936569,
+      "hash": "ofikuv5adyMtMzNWhD4ZRZmzCDdXSn9L4QY9qqqrECwC"
+    },
+    {
+      "name": "libs/com_google_j2objc_j2objc_annotations/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_j2objc_j2objc_annotations/README.chromium",
+      "size": 407,
+      "hash": "QbnEN0nfXO4oZLBAN_vbFDTRLn8-oOFEVt3wjXofd7AC"
+    },
+    {
+      "name": "libs/com_google_j2objc_j2objc_annotations/j2objc-annotations-3.0.0.jar",
+      "size": 12467,
+      "hash": "iCQVc0Z93KRP_U10qgTCu_0Rv3wX4MNCyUyd56cKfGQC"
+    },
+    {
+      "name": "libs/com_google_protobuf_protobuf_javalite/LICENSE",
+      "size": 1732,
+      "hash": "bl4RcySv2UTc9n82zzKYQ7wakiKajNm7Vz16gxMP6n0C"
+    },
+    {
+      "name": "libs/com_google_protobuf_protobuf_javalite/README.chromium",
+      "size": 483,
+      "hash": "7gjD54XgpkuZpX_kJ5QdelRc2mSiMPfZMu8-L8cC4MsC"
+    },
+    {
+      "name": "libs/com_google_protobuf_protobuf_javalite/protobuf-javalite-4.32.0-RC1.jar",
+      "size": 1095337,
+      "hash": "V2LfoxOO0eJKFQccVsplLsTSfDd0LutUmfgyhe4oL64C"
+    },
+    {
+      "name": "libs/com_google_testparameterinjector_test_parameter_injector/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_google_testparameterinjector_test_parameter_injector/README.chromium",
+      "size": 386,
+      "hash": "Ckh5Bd6O-xr3EbPLdr17BVR0LlTjOOvUBGJHx0HOiogC"
+    },
+    {
+      "name": "libs/com_google_testparameterinjector_test_parameter_injector/test-parameter-injector-1.18.jar",
+      "size": 123774,
+      "hash": "5afGScVMQSBJkIJHyl4l_mkh10aEnGAXqE3GBEI3pLQC"
+    },
+    {
+      "name": "libs/com_squareup_moshi_moshi/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_squareup_moshi_moshi/README.chromium",
+      "size": 299,
+      "hash": "Zs7VCspTdJ1R5uAYifujAYinEeTSYwqhWryGSw-1gCcC"
+    },
+    {
+      "name": "libs/com_squareup_moshi_moshi/moshi-1.13.0.jar",
+      "size": 162202,
+      "hash": "vQBN2boXXmA61EQgv2BSUCkbm3vGudnpFvV0GshmMwcC"
+    },
+    {
+      "name": "libs/com_squareup_okio_okio_jvm/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_squareup_okio_okio_jvm/README.chromium",
+      "size": 329,
+      "hash": "cIimGyCe_rZ3nE-fNmyOVH4N1zbNNYZhb2_jGTbndqcC"
+    },
+    {
+      "name": "libs/com_squareup_okio_okio_jvm/okio-jvm-3.16.0.jar",
+      "size": 382591,
+      "hash": "xzfANcpnUYe_EaZ925WBlUvw1cqfPgSOg4syZ88ytcMC"
+    },
+    {
+      "name": "libs/com_squareup_wire_wire_runtime_jvm/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/com_squareup_wire_wire_runtime_jvm/README.chromium",
+      "size": 333,
+      "hash": "1z5Fhn49lyQTdd4fsPvw5cXoryKm3qx8BhjxZvSD98wC"
+    },
+    {
+      "name": "libs/com_squareup_wire_wire_runtime_jvm/wire-runtime-jvm-5.2.1.jar",
+      "size": 260630,
+      "hash": "2jkuKJF6dGfa5B9QMj1FNyLypmuV1HnBrFZbCbBW5pcC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_api/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_api/README.chromium",
+      "size": 296,
+      "hash": "t1H-7oTz_6xKJrUjjxFuyJkK-gOBkrtfZEYX8sVffvYC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_api/grpc-api-1.74.0.jar",
+      "size": 323139,
+      "hash": "fCw5t2_VDqT1in9MEugmQONV_JLKAlvkgHK-G8wrF30C"
+    },
+    {
+      "name": "libs/io_grpc_grpc_binder/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_binder/README.chromium",
+      "size": 311,
+      "hash": "HW2K9yNR7uE928mMUmhYAkKtwS1_bZMleRxDBvv0oT4C"
+    },
+    {
+      "name": "libs/io_grpc_grpc_binder/grpc-binder-1.74.0.aar",
+      "size": 136324,
+      "hash": "FSwuuSgy1g079HQeup5lLWxSB4_VYwdZpisH43CG2uoC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_binder/io_grpc_grpc_binder.info",
+      "size": 352,
+      "hash": "5PKWtzdw0KQ6DzgmKdbTW0LeuGZdhUXQD_yu771xgzoC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_context/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_context/README.chromium",
+      "size": 308,
+      "hash": "ipGMETTHCsSfLwZtByTWkAbnSMxiHAKunz4VoYBNt60C"
+    },
+    {
+      "name": "libs/io_grpc_grpc_context/grpc-context-1.74.0.jar",
+      "size": 293,
+      "hash": "_sB3MCBASh-blhAWhpLI7Uf7dxgcK6N8yEK6dmS_xrAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_core/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_core/README.chromium",
+      "size": 299,
+      "hash": "l39_aIl0CLcxfnBx3TvLCgy0j2tQTvoUEiYCyBY2JJsC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_core/grpc-core-1.74.0.jar",
+      "size": 655441,
+      "hash": "UXXmIj7h8KY8-TBJqr571bZ1zHObKG_jsyCoj6kMMg4C"
+    },
+    {
+      "name": "libs/io_grpc_grpc_protobuf_lite/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_protobuf_lite/README.chromium",
+      "size": 326,
+      "hash": "JNiIB10Kj7Hz90m-twbVGmz0PzO869YU-3d5himhD6YC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_protobuf_lite/grpc-protobuf-lite-1.74.0.jar",
+      "size": 7815,
+      "hash": "NRgvsSJTlIVrc4qR5BSs0kfiIN2Q5sqIhT2cDG-fS9YC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_stub/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_stub/README.chromium",
+      "size": 299,
+      "hash": "DDd22VbukBNehgUEPmbA4_w-p5vt_G9Ukie2vhV1oUYC"
+    },
+    {
+      "name": "libs/io_grpc_grpc_stub/grpc-stub-1.74.0.jar",
+      "size": 61170,
+      "hash": "XlVXt9cqIPEuBbBa0bRHPvszddqjblKJo5VMIApn8oQC"
+    },
+    {
+      "name": "libs/io_perfmark_perfmark_api/LICENSE",
+      "size": 11357,
+      "hash": "xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQC"
+    },
+    {
+      "name": "libs/io_perfmark_perfmark_api/README.chromium",
+      "size": 302,
+      "hash": "2MZ39UpPxrfhsK8o5IRfTw1ynw5BKnsMS0K5Ppbb0pYC"
+    },
+    {
+      "name": "libs/io_perfmark_perfmark_api/perfmark-api-0.27.0.jar",
+      "size": 6954,
+      "hash": "x7R4UD7FJOVd8ZtCTUbSfIporrgBZk-t1PBptx9S0PYC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxandroid/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxandroid/README.chromium",
+      "size": 285,
+      "hash": "pK9e3ltO-zvNe_MJMHmCkD72ubKBI_JW2f7tlyH5P7IC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxandroid/io_reactivex_rxjava2_rxandroid.info",
+      "size": 359,
+      "hash": "E03fdzDkMTed4GwW-sfTovQOYx2DArcoHUtG78nTdkEC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxandroid/rxandroid-2.1.1.aar",
+      "size": 9055,
+      "hash": "v1FQqV8PbxjfknV-Cmms9p58h3iLJ2uMI_lpdGTZ7YEC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxjava/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxjava/README.chromium",
+      "size": 295,
+      "hash": "QFeZgD2iDTMCiooaHKQgnl6WMfr_HEl2pq7AlNSrGroC"
+    },
+    {
+      "name": "libs/io_reactivex_rxjava2_rxjava/rxjava-2.2.6.jar",
+      "size": 2335999,
+      "hash": "uIVoDj41MNmvFrv30dDym7LyzaWoki0WS-6OHfu23hMC"
+    },
+    {
+      "name": "libs/javax_annotation_javax_annotation_api/LICENSE",
+      "size": 39395,
+      "hash": "Gwh60oLLPNChHk4WAxjqtP8Jlarn0i5qwNMDZ-GWxuMC"
+    },
+    {
+      "name": "libs/javax_annotation_javax_annotation_api/README.chromium",
+      "size": 372,
+      "hash": "tv3K1unm8o2f248Nl9MmP0kX-xB6eHtWkZvOajMPVlYC"
+    },
+    {
+      "name": "libs/javax_annotation_javax_annotation_api/javax.annotation-api-1.3.2.jar",
+      "size": 26586,
+      "hash": "4EulGVvNVV3JVlD3zGFNFR5LzVLSmhC4qiGX86uJq5sC"
+    },
+    {
+      "name": "libs/javax_inject_javax_inject/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/javax_inject_javax_inject/README.chromium",
+      "size": 294,
+      "hash": "ExLpyu-IZIr3q7gP8j1cEmZA70Jss2vXK_FTBpIpoKAC"
+    },
+    {
+      "name": "libs/javax_inject_javax_inject/javax.inject-1.jar",
+      "size": 2497,
+      "hash": "kcdwRKUMSBY2wy2Rb9ickRinIZU5BFLIEGUID5V95_8C"
+    },
+    {
+      "name": "libs/org_bouncycastle_bcprov_jdk18on/LICENSE",
+      "size": 1117,
+      "hash": "lkX2QR6z7FsxkswjQPk5BejKTvmCulOIG6sZpVbk47MC"
+    },
+    {
+      "name": "libs/org_bouncycastle_bcprov_jdk18on/README.chromium",
+      "size": 517,
+      "hash": "QRgNekwqlcl8pS8jnFlOGrMcK8ihGcnBljjtEh60BdoC"
+    },
+    {
+      "name": "libs/org_bouncycastle_bcprov_jdk18on/bcprov-jdk18on-1.80.jar",
+      "size": 8682747,
+      "hash": "6K0gn4xY0pGjfKl1Dp6frGBZaVbJg-Sd2Cgjgd2LMkkC"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_qual/LICENSE",
+      "size": 22333,
+      "hash": "CwQ30xPsensKsewVx2q4afz-6GzIYKfk4snj-qds8AAC"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_qual/README.chromium",
+      "size": 453,
+      "hash": "NTi13XVteLRkcYBIZbuWd81fr6Dyyf8VVVYGk7BFoq8C"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_qual/checker-qual-3.49.5.jar",
+      "size": 238219,
+      "hash": "UIyDxiw0T29-4o9HuIqHl9YRbQQ7_RygV2yCjdHfKIAC"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_util/LICENSE",
+      "size": 1125,
+      "hash": "BCdVW_1rY0_D8oKBdnFSqi3PuDySE3yHSoUuhdKiNhYC"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_util/README.chromium",
+      "size": 340,
+      "hash": "i3q7MSe7rN88L19xM0zL1Qo95NNYZaupxmJsfqyp040C"
+    },
+    {
+      "name": "libs/org_checkerframework_checker_util/checker-util-3.49.5.jar",
+      "size": 31013,
+      "hash": "RWKq0qcEE4L1vSdsHSI-5Jlm6cEj1aCmSITvsLNial8C"
+    },
+    {
+      "name": "libs/org_codehaus_mojo_animal_sniffer_annotations/LICENSE",
+      "size": 1074,
+      "hash": "PVE9FIpjO2Z6KOkPu0ApCFZ7vrhJLCcN3M9iQhE-ucsC"
+    },
+    {
+      "name": "libs/org_codehaus_mojo_animal_sniffer_annotations/README.chromium",
+      "size": 438,
+      "hash": "Ov2Cphret0XWSygVIdeXzegUgsrxORGMCOXvYnxBP2wC"
+    },
+    {
+      "name": "libs/org_codehaus_mojo_animal_sniffer_annotations/animal-sniffer-annotations-1.24.jar",
+      "size": 3112,
+      "hash": "xyDm5by-ay9I3tdaR7zNt2Pu3nnRQzAQLg01Lj2J7ZIC"
+    },
+    {
+      "name": "libs/org_conscrypt_conscrypt_openjdk_uber/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_conscrypt_conscrypt_openjdk_uber/README.chromium",
+      "size": 324,
+      "hash": "0O5j2g1GCAYG8-08HfVYA5mU7bZC7Ddr__tYUlxUlxEC"
+    },
+    {
+      "name": "libs/org_conscrypt_conscrypt_openjdk_uber/conscrypt-openjdk-uber-2.5.2.jar",
+      "size": 4534256,
+      "hash": "6vU32Y4DPQ8EUc0bjMdOAte1XsiC2mPIgGDYBrqJw0gC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_android/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_android/README.chromium",
+      "size": 355,
+      "hash": "gVzLUWCkeLTzx1anVuE59aJ_oUTUvTiRTK_n7v8hC5oC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_android/kotlinx-coroutines-android-1.8.1.jar",
+      "size": 20466,
+      "hash": "oTTaz05leLKbMul6pQVI0Jy0XjyzVRznesJ-VeJl2PUC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm/README.chromium",
+      "size": 353,
+      "hash": "AU8fcHdne1c-w6GuB4_sCSFCn7-lU9Vv0JwNCmVWuGMC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm/kotlinx-coroutines-core-jvm-1.8.1.jar",
+      "size": 1546991,
+      "hash": "89T13hw5G7zCDzs0Ncy6wBNSHna2kC19WWNewVwfeX4C"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_play_services/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_play_services/README.chromium",
+      "size": 367,
+      "hash": "9Xt5WAwQvddN_N4SgBch0kv-93WURfXteddMtWu4_jgC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_play_services/kotlinx-coroutines-play-services-1.9.0.jar",
+      "size": 10642,
+      "hash": "TLa2Mh3xZkuZ_udW3mP2r2XMtPaJNvJs92whHeobI64C"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm/README.chromium",
+      "size": 351,
+      "hash": "NDGb32L12YmS1hYFO7bPIZoIur7XoKOaXhMhTIu2tw0C"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm/kotlinx-coroutines-test-jvm-1.8.1.jar",
+      "size": 160938,
+      "hash": "xO8d6zG-P4HtguzyNyIMyViGhop-xSekGFmd__FZ3tsC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_serialization_core_jvm/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_serialization_core_jvm/README.chromium",
+      "size": 373,
+      "hash": "2i5GOWCZPRptaXOWmCabpA4ugCkTOZtepKF4moYeVsYC"
+    },
+    {
+      "name": "libs/org_jetbrains_kotlinx_kotlinx_serialization_core_jvm/kotlinx-serialization-core-jvm-1.7.2.jar",
+      "size": 390343,
+      "hash": "EyIvQBrlzYd5TeCFE4wV0YsxFfoIqnV3pom0u0i8wmMC"
+    },
+    {
+      "name": "libs/org_jspecify_jspecify/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_jspecify_jspecify/README.chromium",
+      "size": 356,
+      "hash": "TsbnqUu_dH02jJHhq8BXhSqxPhbkU8sqh9yjqmotrV8C"
+    },
+    {
+      "name": "libs/org_jspecify_jspecify/jspecify-1.0.0.jar",
+      "size": 3819,
+      "hash": "H61ua-dVd4Hk0zcp1Jrhzcj92m_kd7sMxozjUer9-6sC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm/LICENSE",
+      "size": 1598,
+      "hash": "KTtq83Hu4osP8W8DNOoZ4go9VSIUP6pLlbNGhVUHh5oC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm/README.chromium",
+      "size": 305,
+      "hash": "xci4pHODRhioQ0N49T2nI09KZf0pjyI0VJwclsykCigC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm/asm-9.8.jar",
+      "size": 126113,
+      "hash": "h26raoPa7K1cpn65_KuwY8l7WuuM8fynqYns3hdSIFEC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_commons/LICENSE",
+      "size": 1598,
+      "hash": "KTtq83Hu4osP8W8DNOoZ4go9VSIUP6pLlbNGhVUHh5oC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_commons/README.chromium",
+      "size": 353,
+      "hash": "4RLpF_EYFV7B_4JO5u6EncHcii6R2VykD1K-vw78ZuwC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_commons/asm-commons-9.8.jar",
+      "size": 73498,
+      "hash": "MwGhwctMWfzFKSZI2sHXxa7UwPBn376IhzuM3-d0BPQC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_tree/LICENSE",
+      "size": 1598,
+      "hash": "KTtq83Hu4osP8W8DNOoZ4go9VSIUP6pLlbNGhVUHh5oC"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_tree/README.chromium",
+      "size": 327,
+      "hash": "AkfumcmHX1RXshcRUORRVk9OEYpPft6X8kYwAvJ-6E0C"
+    },
+    {
+      "name": "libs/org_ow2_asm_asm_tree/asm-tree-9.8.jar",
+      "size": 51934,
+      "hash": "FLeIDLfIXu0QHicQQy_D_7gydVMqaolNxMQJXUmtWfEC"
+    },
+    {
+      "name": "libs/org_reactivestreams_reactive_streams/LICENSE",
+      "size": 911,
+      "hash": "lqOy1Fr3IFTQZ26OualEoJaBKn-P8bcb2C2tvGDOBEQC"
+    },
+    {
+      "name": "libs/org_reactivestreams_reactive_streams/README.chromium",
+      "size": 331,
+      "hash": "GOIJgs-SfNM4d-6qWWPlljpgywLGjCSg_my_peh2WKEC"
+    },
+    {
+      "name": "libs/org_reactivestreams_reactive_streams/reactive-streams-1.0.4.jar",
+      "size": 11640,
+      "hash": "91yll3ibPaxY9hhXuawuEDSmj6Zy2zUFWo-0UJ4yXygC"
+    },
+    {
+      "name": "libs/org_robolectric_annotations/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_annotations/README.chromium",
+      "size": 310,
+      "hash": "Zw1ZPMSeP9nTUhiIHeBtdW_AJksh0Cd6McqCbm2tGT8C"
+    },
+    {
+      "name": "libs/org_robolectric_annotations/annotations-4.15.1.jar",
+      "size": 51850,
+      "hash": "zwYaBddt_K9n98dk3BjJwrsuRjN2JK9zTZSeRledhZ0C"
+    },
+    {
+      "name": "libs/org_robolectric_junit/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_junit/README.chromium",
+      "size": 298,
+      "hash": "vj6pJij8GgF82-NINrHZDhhtqvfkVqZCn0_dYNmrMEQC"
+    },
+    {
+      "name": "libs/org_robolectric_junit/junit-4.15.1.jar",
+      "size": 22602,
+      "hash": "bdDWGIXUm_Jq6_enPbKfQNFatdUwM29nfYudNVsjqakC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime/README.chromium",
+      "size": 314,
+      "hash": "Wkwqm_yfxlYef5V2a_9M_ALJiD8O9WON4rVL9IP6FjoC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime/nativeruntime-4.15.1.jar",
+      "size": 54895,
+      "hash": "5R9Mh6njRBos7vvkQnU-5F0mgmp_tSt8TE3dOFlf1GMC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime_dist_compat/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime_dist_compat/README.chromium",
+      "size": 366,
+      "hash": "PhgXcn6nQMylNVkp0Ch3p2sCjqCdFoNYlUbDqh1qNIsC"
+    },
+    {
+      "name": "libs/org_robolectric_nativeruntime_dist_compat/nativeruntime-dist-compat-1.0.17.jar",
+      "size": 157996140,
+      "hash": "QycgHu7mpQ9TTvX7JqYfVL-cLJ7-qrhCqBTn2k7liZQC"
+    },
+    {
+      "name": "libs/org_robolectric_pluginapi/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_pluginapi/README.chromium",
+      "size": 306,
+      "hash": "i3GrOlAmAjh5SqDUjnhBhwawj0wGdomXHyrg25rMFSUC"
+    },
+    {
+      "name": "libs/org_robolectric_pluginapi/pluginapi-4.15.1.jar",
+      "size": 10151,
+      "hash": "T1atYwlv5wqeOZn01icPR3zK7uGEwSI9J0J6tEJ7Q-kC"
+    },
+    {
+      "name": "libs/org_robolectric_plugins_maven_dependency_resolver/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_plugins_maven_dependency_resolver/README.chromium",
+      "size": 346,
+      "hash": "lUUPJ7H4wfzNrV4e8g4MwqdCbSkTINGagiLHwh0BhTIC"
+    },
+    {
+      "name": "libs/org_robolectric_plugins_maven_dependency_resolver/plugins-maven-dependency-resolver-4.15.1.jar",
+      "size": 15194,
+      "hash": "ZRKWSrLPVQA_N8PDPumuaHzqW9KJzr8NRucVwxflZToC"
+    },
+    {
+      "name": "libs/org_robolectric_resources/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_resources/README.chromium",
+      "size": 306,
+      "hash": "HDTszKbEeMNkwvF98U_7euTTtM25JbBP1Sypw420ZSYC"
+    },
+    {
+      "name": "libs/org_robolectric_resources/resources-4.15.1.jar",
+      "size": 403141,
+      "hash": "nkn6RRv9drYXGCZPEEely8oLJf_Ew0wmkPrCS9SBJegC"
+    },
+    {
+      "name": "libs/org_robolectric_robolectric/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_robolectric/README.chromium",
+      "size": 310,
+      "hash": "QXLDMQlbtS_XakESuALC_HQiEVXadeD3Fpe2exvPvmMC"
+    },
+    {
+      "name": "libs/org_robolectric_robolectric/robolectric-4.15.1.jar",
+      "size": 165007,
+      "hash": "WSzkVNQtNjghlNVQX7HN2KGWiTUbXPEEm4u-GvTen4EC"
+    },
+    {
+      "name": "libs/org_robolectric_sandbox/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_sandbox/README.chromium",
+      "size": 302,
+      "hash": "xusCpwM2mb0npNrfa-KV61rqyxfvZjXI99_1qfHyDM4C"
+    },
+    {
+      "name": "libs/org_robolectric_sandbox/sandbox-4.15.1.jar",
+      "size": 121920,
+      "hash": "J6MmoiwsjATkAh5IAtkPYOqY1oIpIR57sSStds4YaNQC"
+    },
+    {
+      "name": "libs/org_robolectric_shadowapi/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_shadowapi/README.chromium",
+      "size": 306,
+      "hash": "TOgJ8DlikHawajxCcgGrLitph8LkASLRrhaaQJlpAnwC"
+    },
+    {
+      "name": "libs/org_robolectric_shadowapi/shadowapi-4.15.1.jar",
+      "size": 16475,
+      "hash": "K0MSobOnTLI3zUQ4abjX5s-r_VySvrcNTfQVDxA2UlMC"
+    },
+    {
+      "name": "libs/org_robolectric_shadows_framework/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_shadows_framework/README.chromium",
+      "size": 314,
+      "hash": "BZ3P_qC82GGuYNSmfGGqvnjsSpXz0m-TNfm5nXLzRIUC"
+    },
+    {
+      "name": "libs/org_robolectric_shadows_framework/shadows-framework-4.15.1.jar",
+      "size": 4844372,
+      "hash": "VWGuZHg8PLlcZNIzVPiie8MVRF61NqsG0rUOkhCDtoQC"
+    },
+    {
+      "name": "libs/org_robolectric_utils/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_utils/README.chromium",
+      "size": 298,
+      "hash": "fx7dsUKZQrpKwrbDV6cw7UcG75S18_pMqY6caRS3BjsC"
+    },
+    {
+      "name": "libs/org_robolectric_utils/utils-4.15.1.jar",
+      "size": 52068,
+      "hash": "XqbcHHClw0PJVrTSdxWmRv2swxKpwSviKu4-wwB0XJEC"
+    },
+    {
+      "name": "libs/org_robolectric_utils_reflector/LICENSE",
+      "size": 12865,
+      "hash": "ufKBUaFREPBKfkBzTt6vfWUIFfrVkC8HNvTdKsRpVpQC"
+    },
+    {
+      "name": "libs/org_robolectric_utils_reflector/README.chromium",
+      "size": 312,
+      "hash": "Ac-GijJjHaoF_misOYgmCG-Ix_FnMXhexXcAOkhQMFkC"
+    },
+    {
+      "name": "libs/org_robolectric_utils_reflector/utils-reflector-4.15.1.jar",
+      "size": 25703,
+      "hash": "GZ7LzAd9C5Ewqul3Lki-Ub29XX6i4cILCkjo6qHi1PgC"
+    },
+    {
+      "name": "libs/org_yaml_snakeyaml/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "libs/org_yaml_snakeyaml/README.chromium",
+      "size": 311,
+      "hash": "uiPKk0q5h5uDWjqtDJuUSmw_9tteFRLuTD5R2bnmkgIC"
+    },
+    {
+      "name": "libs/org_yaml_snakeyaml/snakeyaml-2.4.jar",
+      "size": 339825,
+      "hash": "73ea9dKand6MxwzgNB9cb3c14j7f-Whc6qnTU1m3u38C"
+    },
+    {
+      "name": "to_commit.zip",
+      "size": 9605779,
+      "hash": "XaWRW0pcqUTMsbUH2zFnf_wdq5Pcg5KzNyWahTBSaNIC"
+    }
+  ]
+}

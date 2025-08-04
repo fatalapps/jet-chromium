@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/error_prone",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "error_prone_core.jar",
+      "size": 16578022,
+      "hash": "05djL9j9ykztb9y1qUgH8Urh5TFYuBCsyd1_L3DZMIUC"
+    }
+  ]
+}
